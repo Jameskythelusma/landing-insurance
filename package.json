@@ -1,0 +1,14 @@
+{
+  "name": "landing-insurance",
+  "version": "1.0.0",
+  "description": "landing page insurance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamesky Thelusma",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
